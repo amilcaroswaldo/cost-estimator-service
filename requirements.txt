@@ -1,3 +1,6 @@
 # Dev environment
 pip
 autopep8
+firebase_admin
+python-dotenv
+fastapi

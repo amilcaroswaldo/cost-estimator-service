@@ -7,6 +7,7 @@
   packages = [
     pkgs.python3
     pkgs.python311Packages.pip
+    pkgs.python311Packages.uvicorn
   ];
   # Sets environment variables in the workspace
   env = {};
