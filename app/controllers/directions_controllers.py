@@ -4,5 +4,5 @@ from app.services.directions_services import getDirectionsService
 router = APIRouter()
 
 @router.get("/direction")
-def getDirectionController():
+async def getDirectionController():
     return getDirectionsService()

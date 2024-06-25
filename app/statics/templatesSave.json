@@ -1,0 +1,28 @@
+{
+    "templates": {
+      "template1": {
+        "name": "Chocolate Cake",
+        "metadata": {
+          "created_at": "2024-06-13T12:00:00Z",
+          "updated_at": "2024-06-13T12:00:00Z"
+        }
+      },
+      "template2": {
+        "name": "Cheesecake for 15",
+        "metadata": {
+          "created_at": "2024-06-13T12:00:00Z",
+          "updated_at": "2024-06-13T12:00:00Z"
+        }
+      }
+    },
+    "templateProperties": {
+      "template1": {
+        "sugar": "30mg",
+        "flour": "4lb"
+      },
+      "template2": {
+        "cheese": "2lb",
+        "sugar": "20mg"
+      }
+    }
+  }
